@@ -3,7 +3,7 @@ name = "alice-vr"
 version = "1.0.0"
 edition = "2021"
 authors = ["Moroya Sakamoto"]
-license = "MIT"
+license = "MIT OR Apache-2.0"
 description = "VR runtime: head tracking, lens distortion, controller input, stereo rendering, reprojection, comfort metrics, guardian system"
 
 [lib]
