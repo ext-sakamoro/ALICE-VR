@@ -1,0 +1,10 @@
+[package]
+name = "alice-vr"
+version = "1.0.0"
+edition = "2021"
+authors = ["Moroya Sakamoto"]
+license = "MIT"
+description = "VR runtime: head tracking, lens distortion, controller input, stereo rendering, reprojection, comfort metrics, guardian system"
+
+[lib]
+crate-type = ["rlib"]
